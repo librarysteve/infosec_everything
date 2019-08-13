@@ -8,7 +8,7 @@
   * [Cheat Sheets](https://github.com/librarysteve/infosec_everything/blob/master/lists/cheatsheets.md)
   * [Credential/Password Tools](https://github.com/librarysteve/infosec_everything/blob/master/lists/cred_stuff.md)
   * [Cryptography](https://github.com/librarysteve/infosec_everything/blob/master/lists/ctypto.md)
-  * Exploits
+  * [Exploits/Pricesc](https://github.com/librarysteve/infosec_everything/blob/master/lists/Exploits.md)
   * Forensics
   * Fuzzing
   * Labs/Vulnerable VMs
