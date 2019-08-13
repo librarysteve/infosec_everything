@@ -3,8 +3,8 @@
 
 ### Everything is organized in alphabetical order by topic.
 ### Main Topics:
-  * c2 (Command and Control)
-  * Certification Prep
+  * [c2 (Command and Control)](https://github.com/librarysteve/infosec_everything/blob/master/lists/c2.md)
+  * [Certification Prep](https://github.com/librarysteve/infosec_everything/blob/master/lists/cert_prep.md)
   * [Cheat Sheets](https://github.com/librarysteve/infosec_everything/blob/master/lists/cheatsheets.md)
   * Credential/Password Tools
   * [Cryptography](https://github.com/librarysteve/infosec_everything/blob/master/lists/ctypto.md)
