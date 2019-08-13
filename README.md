@@ -5,7 +5,7 @@
 ### Main Topics:
   * c2 (Command and Control)
   * Certification Prep
-  * Cheat Sheets(tool commands, terminal one-liners, etc.)
+  * [Cheat Sheets](https://github.com/librarysteve/infosec_everything/blob/master/lists/cheatsheets.md)
   * Credential/Password Tools
   * Cryptography
   * Exploits
