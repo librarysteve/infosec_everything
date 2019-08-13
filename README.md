@@ -6,7 +6,7 @@
   * [c2 (Command and Control)](https://github.com/librarysteve/infosec_everything/blob/master/lists/c2.md)
   * [Certification Prep](https://github.com/librarysteve/infosec_everything/blob/master/lists/cert_prep.md)
   * [Cheat Sheets](https://github.com/librarysteve/infosec_everything/blob/master/lists/cheatsheets.md)
-  * Credential/Password Tools
+  * [Credential/Password Tools](https://github.com/librarysteve/infosec_everything/blob/master/lists/cred_stuff.md)
   * [Cryptography](https://github.com/librarysteve/infosec_everything/blob/master/lists/ctypto.md)
   * Exploits
   * Forensics
