@@ -7,7 +7,7 @@
   * Certification Prep
   * [Cheat Sheets](https://github.com/librarysteve/infosec_everything/blob/master/lists/cheatsheets.md)
   * Credential/Password Tools
-  * Cryptography
+  * [Cryptography](https://github.com/librarysteve/infosec_everything/blob/master/lists/ctypto.md)
   * Exploits
   * Forensics
   * Fuzzing
