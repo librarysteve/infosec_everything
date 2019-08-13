@@ -69,16 +69,59 @@ Link | Description
 [OSCP Prep Guide - GitHub User RustyShackleford221](https://github.com/RustyShackleford221/OSCP-Prep) | A comprehensive guide/material for anyone looking to get into infosec or take the OSCP exam - 
 [OSCP Course & Exam Preparation](https://411hall.github.io/OSCP-Preparation/) | Blog from someone who passed after a few attepts
 [OSCP 2019 Guide](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html) | Recent blog post and massive link list
-[Penetration Testing / OSCP Biggest Reference Bank / Cheatsheet](https://github.com/OlivierLaflamme/Cheatsheet-God) | GitHub list of OSCP related links and cheatsheets
 [OSCP Repo](https://github.com/rewardone/OSCPRepo) | Another big list of links and resources
 [Reconnoitre](https://github.com/codingo/Reconnoitre) | Enumeration tool made for the OSCP labs
 [OSCP Support site](https://support.offensive-security.com/) | Official test rules and guidelines, FAQ's, and what to do if ___ happens
 
-### HTB
-
 
 ### Cheat sheets, One-liners, tool TL;DR's
 Link | Description
------------------|----------------
-[HTB - Pentest Labs](https://www.hackthebox.eu/) | Free pentesting lab - VIP membership for more privet access is very afforadable
-[HTB - Forums](https://forum.hackthebox.eu/) | Active forums for HTB
+---------------------------|---------------
+[GitHub Emoji's](https://www.webfx.com/tools/emoji-cheat-sheet/) | Very important stuff!
+[Alt Codes](https://usefulshortcuts.com/downloads/ALT-Codes.pdf) | █▓▒░╢ Keyboard Magic ╟░▒▓◘▄▌
+file:///D:/Ninja/Downloads/atlassian-git-cheatsheet.pdf
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf
+https://linuxhint.com/crack-web-based-login-page-with-hydra-in-kali-linux/
+https://devhints.io/
+https://docs.docker.com/
+https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
+https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf
+https://www.fuzzysecurity.com/tutorials/16.html
+https://education.github.com/git-cheat-sheet-education.pdf
+https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet
+https://github.com/alexanderepstein/Bash-Snippets
+https://github.com/chubin/cheat.sh
+https://github.com/coreb1t/awesome-pentest-cheat-sheets
+https://github.com/cure53/H5SC
+https://github.com/EdOverflow/bugbounty-cheatsheet
+https://github.com/mantvydasb/Offensive-Security-OSCP-Cheatsheets
+https://github.com/OlivierLaflamme/Cheatsheet-God
+https://github.com/OWASP/CheatSheetSeries
+https://null-byte.wonderhowto.com/how-to/install-lock-down-kali-linux-for-safe-desktop-use-0184531/#jump-step2
+https://www.offensive-security.com/kali-linux/top-10-post-install-tips/
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
+https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
+https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/
+https://highon.coffee/blog/nmap-cheat-sheet/
+https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf
+https://www.adminsub.net/tcp-udp-port-finder
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+https://hausec.com/pentesting-cheatsheet/
+https://www.grc.com/PortDataHelp.htm
+https://blogs.sans.org/pen-testing/files/2016/05/PowerShellCheatSheet_v41.pdf
+https://cdn.comparitech.com/wp-content/uploads/2018/08/Comparitech-Powershell-cheatsheet.pdf
+https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
+https://highon.coffee/blog/reverse-shell-cheat-sheet/
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+https://devhints.io/scp
+https://bentrobotlabs.wordpress.com/2018/04/03/sql-injection-cheat-sheet/
+https://www.sans.org/security-resources/GoogleCheatSheet.pdf
+https://www.debian.org/doc/manuals/debian-handbook/
+https://tldr.sh/
+https://tmuxcheatsheet.com/
+https://null-byte.wonderhowto.com/how-to/top-10-things-do-after-installing-kali-linux-0186450/
+https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf
