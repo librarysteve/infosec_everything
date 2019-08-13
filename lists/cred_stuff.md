@@ -7,7 +7,7 @@ Link | Description
 [Hashcat](https://hashcat.net/hashcat/) | GPU based password cracking
 [HashCat Official GitHub](https://github.com/hashcat/hashcat) | GitHub Repo for Hashcat
 [HashCat Utils](https://github.com/hashcat/hashcat-utils) | Utilities for pw cracking
-[HashCat GUI](https://github.com/fireeye/gocrack) | GoCrack Written unofficial HashCat GUI
+[HashCat GUI](https://github.com/fireeye/gocrack) | GoCrack - unofficial HashCat GUI
 [JohnTheRipper - Openwall site](https://www.openwall.com/john/) | Smaller but still good CPU based pw cracker
 [JTR Official GitHub](https://github.com/magnumripper/JohnTheRipper) | GitHub Repo for JTR
 [Johnny](https://openwall.info/wiki/john/johnny) | Offical JTR GUI
