@@ -84,40 +84,4 @@ Link | Description
 [THC Hydra Cheatsheet](https://linuxhint.com/crack-web-based-login-page-with-hydra-in-kali-linux/) | Online Password attacks
 [DevHints.io cheatsheets](https://devhints.io/) | Lots of languages, including a really great bash scriptiong cheatsheet
 [Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html) | Windows Privilege Escalation things to look for
-https://education.github.com/git-cheat-sheet-education.pdf
-https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet
-https://github.com/alexanderepstein/Bash-Snippets
-https://github.com/chubin/cheat.sh
-https://github.com/coreb1t/awesome-pentest-cheat-sheets
-https://github.com/cure53/H5SC
-https://github.com/EdOverflow/bugbounty-cheatsheet
-https://github.com/mantvydasb/Offensive-Security-OSCP-Cheatsheets
-https://github.com/OlivierLaflamme/Cheatsheet-God
-https://github.com/OWASP/CheatSheetSeries
-https://null-byte.wonderhowto.com/how-to/install-lock-down-kali-linux-for-safe-desktop-use-0184531/#jump-step2
-https://www.offensive-security.com/kali-linux/top-10-post-install-tips/
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
-https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
-https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/
-https://highon.coffee/blog/nmap-cheat-sheet/
-https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf
-https://www.adminsub.net/tcp-udp-port-finder
-https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
-https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
-https://hausec.com/pentesting-cheatsheet/
-https://www.grc.com/PortDataHelp.htm
-https://blogs.sans.org/pen-testing/files/2016/05/PowerShellCheatSheet_v41.pdf
-https://cdn.comparitech.com/wp-content/uploads/2018/08/Comparitech-Powershell-cheatsheet.pdf
-https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
-https://highon.coffee/blog/reverse-shell-cheat-sheet/
-http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
-https://devhints.io/scp
-https://bentrobotlabs.wordpress.com/2018/04/03/sql-injection-cheat-sheet/
-https://www.sans.org/security-resources/GoogleCheatSheet.pdf
-https://www.debian.org/doc/manuals/debian-handbook/
-https://tldr.sh/
-https://tmuxcheatsheet.com/
-https://null-byte.wonderhowto.com/how-to/top-10-things-do-after-installing-kali-linux-0186450/
-https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
-https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf
+
