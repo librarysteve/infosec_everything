@@ -10,9 +10,9 @@
   * [Cryptography](https://github.com/librarysteve/infosec_everything/blob/master/lists/ctypto.md)
   * [Exploits/Pricesc](https://github.com/librarysteve/infosec_everything/blob/master/lists/Exploits.md)
   * [Labs/Vulnerable VMs](https://github.com/librarysteve/infosec_everything/blob/master/lists/labs_vulvms.md)
+  * [Linux Specific](https://github.com/librarysteve/infosec_everything/blob/master/lists/linux_specific.md)
 
 ## Comming Soon!
-  * Linux Specific
   * Networking
   * News/Threat Intelligence
   * OSINT
