@@ -51,14 +51,14 @@
 
 ### c2 (Command and Control)
 Link | Description
-
------------------|-----------------
+-------------------------------------------------------------------------------------------------|---------------------------------
 [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) | This wiki is intended to provide a resource for setting up a resilient Red Team infrastructure.
 [BYOB - Build Your Own Botnet](https://github.com/malwaredllc/byob) | BYOB is an open-source project that provides a framework for security researchers and developers to build and operate a basic botnet 
 [Merlin c2](https://github.com/Ne0nd0g/merlin) | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 [Rapid Attack Infrastructure](https://github.com/obscuritylabs/RAI) | Red Team Infrastructure... Quick... Fast... Simplified
 [Trusted Sec's Trever](https://github.com/trustedsec/trevorc2) | TrevorC2 is a client/server model for masking command and control through a normally browsable website. Detection becomes much harder as time intervals are different and does not use POST requests for data exfil.
 [PoshC2 Python](https://github.com/nettitude/PoshC2_Python/) | PoshC2 is a proxy aware C2 framework that utilises Powershell and/or equivalent (System.Management.Automation.dll) to aid penetration testers with red teaming, post-exploitation and lateral movement
+
 
 ### Certification Prep
 #### OSCP/PWK
@@ -73,9 +73,12 @@ Link | Description
 [OSCP Repo](https://github.com/rewardone/OSCPRepo) | Another big list of links and resources
 [Reconnoitre](https://github.com/codingo/Reconnoitre) | Enumeration tool made for the OSCP labs
 [OSCP Support site](https://support.offensive-security.com/) | Official test rules and guidelines, FAQ's, and what to do if ___ happens
+
 ### HTB
 
 
 ### Cheat sheets, One-liners, tool TL;DR's
 Link | Description
------------------|-----------------
+-----------------|----------------
+[HTB - Pentest Labs](https://www.hackthebox.eu/) | Free pentesting lab - VIP membership for more privet access is very afforadable
+[HTB - Forums](https://forum.hackthebox.eu/) | Active forums for HTB
