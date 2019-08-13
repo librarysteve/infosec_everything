@@ -79,15 +79,11 @@ Link | Description
 ---------------------------|---------------
 [GitHub Emoji's](https://www.webfx.com/tools/emoji-cheat-sheet/) | Very important stuff!
 [Alt Codes](https://usefulshortcuts.com/downloads/ALT-Codes.pdf) | █▓▒░╢ Keyboard Magic ╟░▒▓◘▄▌
-file:///D:/Ninja/Downloads/atlassian-git-cheatsheet.pdf
-https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
-http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf
-https://linuxhint.com/crack-web-based-login-page-with-hydra-in-kali-linux/
-https://devhints.io/
-https://docs.docker.com/
-https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
-https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf
-https://www.fuzzysecurity.com/tutorials/16.html
+[g0tmilk's Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) | Coomands to find a path from user to root
+[Windows CMD Cheatsheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf) | List of CMD commands
+[THC Hydra Cheatsheet](https://linuxhint.com/crack-web-based-login-page-with-hydra-in-kali-linux/) | Online Password attacks
+[DevHints.io cheatsheets](https://devhints.io/) | Lots of languages, including a really great bash scriptiong cheatsheet
+[Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html) | Windows Privilege Escalation things to look for
 https://education.github.com/git-cheat-sheet-education.pdf
 https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet
 https://github.com/alexanderepstein/Bash-Snippets
