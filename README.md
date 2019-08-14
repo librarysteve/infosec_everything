@@ -13,9 +13,8 @@
   * [Linux Specific](https://github.com/librarysteve/infosec_everything/blob/master/lists/linux_specific.md)
   * [News](https://github.com/librarysteve/infosec_everything/blob/master/lists/news.md)
   * [OSINT](https://github.com/librarysteve/infosec_everything/blob/master/lists/osint.md)
-
+  * [Pentesting: Publications/Standards](https://github.com/librarysteve/infosec_everything/blob/master/lists/pentest_pub.md)
 ## Comming Soon!
-  * Pentest  Methodologies
   * PowerShell
   * Programming Reference
   * Reporting Tools
