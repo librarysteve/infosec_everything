@@ -1,5 +1,5 @@
 # :computer: **Infosec Everything**
-## Everything I've ever bookmarked on security, hacking, forensics, and coding. There's a bunch so hold on to your :beers:
+## Everything I've ever bookmarked on security, hacking, forensics, and coding. There's a bunch so hold on to your :tophat:
 
 ### Everything is organized in alphabetical order by topic.
 ### Main Topics:
