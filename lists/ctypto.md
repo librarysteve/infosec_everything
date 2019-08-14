@@ -1,4 +1,4 @@
-# Cryptography
+# :lock: Cryptography
 
 ## Tools
 
