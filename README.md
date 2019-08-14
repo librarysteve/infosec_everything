@@ -1,4 +1,4 @@
-# :key: **Infosec Everything** :unlock:
+# :computer: **Infosec Everything**
 ## Everything I've ever bookmarked on security, hacking, forensics, and coding. There's a bunch so hold on to your :beers:
 
 ### Everything is organized in alphabetical order by topic.
