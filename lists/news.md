@@ -1,4 +1,4 @@
-# Security News
+# :newspaper: Security News
 
 Links|
 -|
