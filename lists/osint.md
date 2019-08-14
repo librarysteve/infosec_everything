@@ -1,4 +1,4 @@
-# OSINT (Open Source Intelligence)
+# OSINT :mag_right: (Open Source Intelligence)
 
 Links | Description
 -|-
