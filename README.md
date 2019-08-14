@@ -12,8 +12,9 @@
   * [Labs/Vulnerable VMs](https://github.com/librarysteve/infosec_everything/blob/master/lists/labs_vulvms.md)
   * [Linux Specific](https://github.com/librarysteve/infosec_everything/blob/master/lists/linux_specific.md)
   * [News](https://github.com/librarysteve/infosec_everything/blob/master/lists/news.md)
+  * [OSINT](https://github.com/librarysteve/infosec_everything/blob/master/lists/osint.md)
+
 ## Comming Soon!
-  * OSINT
   * Pentest  Methodologies
   * PowerShell
   * Programming Reference
