@@ -14,6 +14,9 @@
   * [News](https://github.com/librarysteve/infosec_everything/blob/master/lists/news.md)
   * [OSINT](https://github.com/librarysteve/infosec_everything/blob/master/lists/osint.md)
   * [Pentesting: Publications/Standards](https://github.com/librarysteve/infosec_everything/blob/master/lists/pentest_pub.md)
+
+### List-o-lists!
+[A collection of GitHub Awesome Lists](https://github.com/librarysteve/infosec_everything/blob/master/lists/list_o_lists.md)
 ## Comming Soon!
   * PowerShell
   * Programming Reference
@@ -41,4 +44,4 @@
   * Dress Like a Hacker
   * Open Source Software/Alternative Software
 
-### Awesome Lists :sunglasses: on GitHub:
+
