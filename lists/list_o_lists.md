@@ -1,6 +1,6 @@
 # A List of lists more awesome than this
 
-## Down the rabbithole...
+## :mushroom: Down the rabbithole... :milky_way:
 
 Pentesing, Red Teaming|
 -|
