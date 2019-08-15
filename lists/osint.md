@@ -14,7 +14,7 @@ Links | Description
 [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) | checks public resources for pwned passweds based on email address
 [Sherlock](https://github.com/TheYahya/sherlock) | Find usernames across social networks
 [Skiptracer](https://github.com/xillwillx/skiptracer) |OSINT python webscaping framework
-[Buscador OSINT VM](https://inteltechniques.com/index.html) | Preloaded with tons of OSINT tools
+[Buscador OSINT VM](https://inteltechniques.com/links.html) | Preloaded with tons of OSINT tools
 [Huge OSINT List](https://300m.com/osint/) | Big lost of OSINT search engines
 [OSINT Technuiques](https://www.osinttechniques.com/) | Site with lots of great info (check out the tools list)
 [Shodan.io](https://www.shodan.io/) | Search engine for IoT and more!
