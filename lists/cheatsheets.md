@@ -8,6 +8,7 @@ Link |
 -|
 [Nikto - redteamtutorials.com](https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/)|
 [NMAP - HighOnCoffee](https://highon.coffee/blog/nmap-cheat-sheet/)|
+[Current (2019) Install posh on kali](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6)|
 
 ### SANS CheatSheets (Tool Specific)
 
