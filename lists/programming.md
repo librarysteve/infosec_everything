@@ -17,3 +17,4 @@ Link | Description
 [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 [Emacs Ref card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 [Choose a license](https://choosealicense.com/) | Guide to selecting the right opensource license
+[chpy](https://github.com/librarysteve/chpy) | Change your default python version for dummies
