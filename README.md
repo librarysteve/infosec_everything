@@ -15,11 +15,11 @@
   * [OSINT](https://github.com/librarysteve/infosec_everything/blob/master/lists/osint.md)
   * [Pentesting: Publications/Standards](https://github.com/librarysteve/infosec_everything/blob/master/lists/pentest_pub.md)
   * [Powershell](https://github.com/librarysteve/infosec_everything/blob/master/lists/powershell.md)
+  * [Programming Reference](https://github.com/librarysteve/infosec_everything/blob/master/lists/programming.md)
 
 ### List-o-lists!
 [A collection of GitHub Awesome Lists](https://github.com/librarysteve/infosec_everything/blob/master/lists/list_o_lists.md)
 ## Comming Soon!
-  * Programming Reference
   * Reporting Tools
   * Reverse Engineering (software)
   * Social Engineering/Phishing
