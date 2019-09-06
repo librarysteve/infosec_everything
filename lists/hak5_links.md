@@ -1,0 +1,10 @@
+Links|
+-|
+https://docs.hak5.org/hc/en-us
+https://shop.hak5.org/
+https://downloads.hak5.org/
+https://forums.hak5.org/
+https://github.com/hak5darren/USB-Rubber-Ducky/wiki
+https://github.com/hak5/bashbunny-payloads
+https://github.com/hak5/packetsquirrel-payloads
+https://github.com/kbeflo/evilportals
