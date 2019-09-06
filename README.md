@@ -12,7 +12,7 @@
   * [Labs/Vulnerable VMs](https://github.com/librarysteve/infosec_everything/blob/master/lists/labs_vulvms.md)
   * [Linux Specific](https://github.com/librarysteve/infosec_everything/blob/master/lists/linux_specific.md)
   * [News](https://github.com/librarysteve/infosec_everything/blob/master/lists/news.md)
-  * [OS Images](https://github.com/librarysteve/infosec_everything/tree/master/lists)
+  * [OS Images](https://github.com/librarysteve/infosec_everything/blob/master/lists/os_images.md)
   * [OSINT](https://github.com/librarysteve/infosec_everything/blob/master/lists/osint.md)
   * [Pentesting: Publications/Standards](https://github.com/librarysteve/infosec_everything/blob/master/lists/pentest_pub.md)
   * [Powershell](https://github.com/librarysteve/infosec_everything/blob/master/lists/powershell.md)
