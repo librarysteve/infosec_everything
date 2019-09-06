@@ -19,11 +19,11 @@
   * [Reporting Tools](https://github.com/librarysteve/infosec_everything/blob/master/lists/reporting.md)
   * [Reverse Engineering](https://github.com/librarysteve/infosec_everything/blob/master/lists/reverse_engineering.md)
   * [Social Engineering](https://github.com/librarysteve/infosec_everything/blob/master/lists/social_engineering.md)
+  * [Software Defined Radio](https://github.com/librarysteve/infosec_everything/blob/master/lists/sdr.md)
 
 ### List-o-lists!
 [A collection of GitHub Awesome Lists](https://github.com/librarysteve/infosec_everything/blob/master/lists/list_o_lists.md)
 ## Comming Soon!
-  * Software Defined Radio
   * Vulnerability Scanners
   * Web Application Testing/Web Shells
   * Windows Specific
