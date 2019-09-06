@@ -17,11 +17,11 @@
   * [Powershell](https://github.com/librarysteve/infosec_everything/blob/master/lists/powershell.md)
   * [Programming Reference](https://github.com/librarysteve/infosec_everything/blob/master/lists/programming.md)
   * [Reporting Tools](https://github.com/librarysteve/infosec_everything/blob/master/lists/reporting.md)
+  * [Reverse Engineering](https://github.com/librarysteve/infosec_everything/blob/master/lists/reverse_engineering.md)
 
 ### List-o-lists!
 [A collection of GitHub Awesome Lists](https://github.com/librarysteve/infosec_everything/blob/master/lists/list_o_lists.md)
 ## Comming Soon!
-  * Reverse Engineering (software)
   * Social Engineering/Phishing
   * Software Defined Radio
   * Vulnerability Scanners
