@@ -29,7 +29,7 @@
   
   
 ### Other Cool Stuff:
-  * [Hak5 Links](https://github.com/librarysteve/infosec_everything/blob/master/lists/hak5_links.md)##
+  * [Hak5 Links](https://github.com/librarysteve/infosec_everything/blob/master/lists/hak5_links.md)
 ### *Coming Soon*
   * Lockpicking
   * Hardware Hacking
