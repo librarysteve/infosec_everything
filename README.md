@@ -12,6 +12,7 @@
   * [Labs/Vulnerable VMs](https://github.com/librarysteve/infosec_everything/blob/master/lists/labs_vulvms.md)
   * [Linux Specific](https://github.com/librarysteve/infosec_everything/blob/master/lists/linux_specific.md)
   * [News](https://github.com/librarysteve/infosec_everything/blob/master/lists/news.md)
+  * [OS Images](https://github.com/librarysteve/infosec_everything/tree/master/lists)
   * [OSINT](https://github.com/librarysteve/infosec_everything/blob/master/lists/osint.md)
   * [Pentesting: Publications/Standards](https://github.com/librarysteve/infosec_everything/blob/master/lists/pentest_pub.md)
   * [Powershell](https://github.com/librarysteve/infosec_everything/blob/master/lists/powershell.md)
@@ -21,15 +22,11 @@
   * [Social Engineering](https://github.com/librarysteve/infosec_everything/blob/master/lists/social_engineering.md)
   * [Vulnerability Scanners](https://github.com/librarysteve/infosec_everything/blob/master/lists/vulerability_scanners.md)
   * [Website Tools/Webshells](https://github.com/librarysteve/infosec_everything/tree/master/lists)
+  * [Windows Specific](https://github.com/librarysteve/infosec_everything/blob/master/lists/windows.md)
 
 ### List-o-lists!
 [A collection of GitHub Awesome Lists](https://github.com/librarysteve/infosec_everything/blob/master/lists/list_o_lists.md)
-## Comming Soon!
-  * Windows Specific
   
-### Linux and Windows Downloads
-  * Linux
-  * Windows
   
 ### Other Cool Stuff:
   * Hak5 Resources
