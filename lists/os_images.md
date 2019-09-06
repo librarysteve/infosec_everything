@@ -1,0 +1,16 @@
+Links|
+-|
+https://inteltechniques.com/buscador/index.html
+https://dietpi.com/
+https://distrowatch.com/
+https://www.microsoft.com/en-us/evalcenter/
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+https://dd-wrt.com/
+https://www.kali.org/
+https://openwrt.org/
+http://www.parrotsec.org/
+https://www.raspberrypi.org/downloads/
+https://www.turnkeylinux.org/
+https://www.osboxes.org/
+https://digital-forensics.sans.org/community/downloads
+https://docs.microsoft.com/en-us/windows/wsl/about
