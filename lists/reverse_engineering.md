@@ -3,7 +3,6 @@
 
 Link | Description
 -|-
-Start | Here
 [ILSpy](https://github.com/icsharpcode/ILSpy) | .NET decompiler
 [Cutter](https://github.com/radareorg/cutter) | GUI for Radare2
 [IDA](https://www.hex-rays.com/products/ida/) | The interactive disassembler
