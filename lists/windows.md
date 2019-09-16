@@ -5,3 +5,4 @@ https://www.fuzzysecurity.com/tutorials/16.html
 https://blogs.sans.org/pen-testing/files/2016/05/PowerShellCheatSheet_v41.pdf
 https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf
 https://lolbas-project.github.io/
+https://github.com/fireeye/commando-vm
