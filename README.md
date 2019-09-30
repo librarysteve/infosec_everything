@@ -20,7 +20,7 @@
   * [Reporting Tools](https://github.com/librarysteve/infosec_everything/blob/master/lists/reporting.md)
   * [Reverse Engineering](https://github.com/librarysteve/infosec_everything/blob/master/lists/reverse_engineering.md)
   * [Social Engineering](https://github.com/librarysteve/infosec_everything/blob/master/lists/social_engineering.md)
-  * [Vulnerability Scanners](https://github.com/librarysteve/infosec_everything/blob/master/lists/vulerability_scanners.md)
+  * [Vulnerability Scanners](https://github.com/librarysteve/infosec_everything/blob/master/lists/scanners_automation.md)
   * [Website Tools/Webshells](https://github.com/librarysteve/infosec_everything/blob/master/lists/web_application_tools.md)
   * [Windows Specific](https://github.com/librarysteve/infosec_everything/blob/master/lists/windows.md)
 
