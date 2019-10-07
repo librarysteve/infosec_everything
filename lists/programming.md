@@ -18,3 +18,4 @@ Link | Description
 [Emacs Ref card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 [Choose a license](https://choosealicense.com/) | Guide to selecting the right opensource license
 [chpy](https://github.com/librarysteve/chpy) | Change your default python version for dummies
+[Python Data Science Cheatsheet](https://storage.googleapis.com/molten/lava/2018/09/81bb9282-intro-to-python-for-data-science-python-cheat-sheet-datacamp.jpg)
