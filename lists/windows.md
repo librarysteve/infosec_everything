@@ -8,6 +8,6 @@ Links |
 [SANS PoSH Cheatsheet](https://blogs.sans.org/pen-testing/files/2016/05/PowerShellCheatSheet_v41.pdf)
 [SANS CMD Cheatsheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
 [LOLBAS](https://lolbas-project.github.io/)<!-- LWTL https://youtu.be/21YnCV1Z4lY -->
-[FireEye's Commando VM](https://github.com/fireeye/commando-vm)
+
 
 *There's an easteregg on this page?
