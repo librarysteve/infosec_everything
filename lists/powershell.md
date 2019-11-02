@@ -12,3 +12,4 @@ Link | Description
 [Another Powershell Cheatsheet](https://cdn.comparitech.com/wp-content/uploads/2018/08/Comparitech-Powershell-cheatsheet.pdf) | Not too bad
 [nishang](https://github.com/samratashok/nishang) | Offensive PowerShell for red team, penetration testing and offensive security
 [PoshKatz](https://github.com/STEALTHbits/poshkatz) | Mimikatz on powershell
+[Powershell Mafia](https://github.com/PowerShellMafia/PowerSploit) | Powershell pentesting framework
