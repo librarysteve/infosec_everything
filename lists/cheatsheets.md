@@ -29,6 +29,8 @@ Link|
 [HighOnCoffee](https://highon.coffee/blog/reverse-shell-cheat-sheet/)|
 [PenTestMonkey](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)|
 [Upgrade That Shell!](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)|
+
+
 ### Lists of Cheatsheets (Pentesting oriented)
 
 Link |
@@ -39,6 +41,8 @@ Link |
 [HighOnCoffee - Pentesting](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)|
 [Housec - Pentesting](https://hausec.com/pentesting-cheatsheet/)|
 [TLDR Script](https://tldr.sh/)|
+[Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/)|
+
 
 ### Networking
 
