@@ -16,7 +16,7 @@ Link |
 -|
 [Windows CMD](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)|
 [Windows PowerShell](https://blogs.sans.org/pen-testing/files/2016/05/PowerShellCheatSheet_v41.pdf)|
-[Metasploit Framework](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)|
+[Metasploit Framework/MSFVENOM](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)|
 [NMAP](https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf)|
 [Netcat](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)|
 [Google Dorking](https://www.sans.org/security-resources/GoogleCheatSheet.pdf)|
